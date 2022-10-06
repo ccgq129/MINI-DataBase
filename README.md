@@ -11,5 +11,3 @@
 4、	按照定义好的表结构录入信息，并能够查看已输入的信息。
 
 5、	表结构信息使用结构体数组存储，便于对数据进行保存和访问。
-
-！[This is a Image](https://github.com/ccgq129/Images/blob/main/1.png)
